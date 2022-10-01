@@ -15,6 +15,7 @@ body {
     color: #FBFBFF;
     border-bottom: 10px solid #FF331F;
     border-right: 10px solid #3626A7;
+    border-radius: 10px;
 }
 
 .avatar {
